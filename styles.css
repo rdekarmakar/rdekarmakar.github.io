@@ -32,8 +32,18 @@ section {
     text-align: center;
 }
 
-.project {
-    border: 1px solid #ccc;
-    margin: 20px;
-    padding: 20px;
+a {
+    color: #0077cc; /* Cool blue color for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
 }
